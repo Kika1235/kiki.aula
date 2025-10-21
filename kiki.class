@@ -1,0 +1,28 @@
+/*
+
+#include <string>
+#include <iostream>
+
+class Humano {
+	
+	public: 
+	std:: string nome;
+	int idade;
+	float conta_bancaria;
+	std:: string tipo_do_humano;
+};
+
+int main(){
+	
+	Humano Vertebrado;
+	Vertebrado.nome = "Glenda";
+	Vertebrado.idade = 36;
+	Vertebrado.conta_bancaria = 15000;
+	Vertebrado.tipo_do_humano = "carnívoro";
+	
+	std:: cout<< "\nO nome da pessoa é: " << Vertebrado.nome;
+	std:: cout<< "\nA idade da pessoa é: " << Vertebrado.idade;
+	std:: cout<< "\nA conta bancária da pessoa é: " << Vertebrado.conta_bancaria;
+	std:: cout<< "\nO tipo da pessoa é: " << Vertebrado.tipo_do_humano;
+}
+*/
